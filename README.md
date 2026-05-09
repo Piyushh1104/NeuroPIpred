@@ -25,7 +25,7 @@ Piyush Agrawal, Sumit Kumar, Archana Singh, Gajendra P. S. Raghava, and Indrakan
 **Journal:** Scientific Reports (2019)
 
 **DOI:** https://doi.org/10.1038/s41598-019-41538-x
-
+https://doi.org/10.5281/zenodo.20092837
 ---
 
 ## Background
